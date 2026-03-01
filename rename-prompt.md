@@ -30,38 +30,38 @@ Files and context:
     }
   },
   {
-    "path": "blog.html",
-    "context": {
-      "title": "Find your inner voice, your inner echo | Top counsellors in Bangalore",
-      "first_heading": "BLOG"
-    }
-  },
-  {
-    "path": "blog_defence-mechanisms.html",
+    "path": "blog-defence-mechanisms.html",
     "context": {
       "title": "Defence Mechanisms",
       "first_heading": "Defence Mechanisms"
     }
   },
   {
-    "path": "blog_ethics-in-a-therapist---counselee-relationship.html",
+    "path": "blog-ethics-in-a-therapist-counselee-relationship.html",
     "context": {
       "title": "Ethics in a Therapist - Counselee relationship",
       "first_heading": "Ethics in a Therapist - Counselee relationship"
     }
   },
   {
-    "path": "blog_mental-health-day.html",
+    "path": "blog-mental-health-day.html",
     "context": {
       "title": "Mental Health Day",
       "first_heading": "Mental Health Day"
     }
   },
   {
-    "path": "blog_what-is-mental-health-and-who-can-help.html",
+    "path": "blog-what-is-mental-health-and-who-can-help.html",
     "context": {
       "title": "What is Mental health and Who can help",
       "first_heading": "What is Mental health and Who can help"
+    }
+  },
+  {
+    "path": "blog.html",
+    "context": {
+      "title": "Find your inner voice, your inner echo | Top counsellors in Bangalore",
+      "first_heading": "BLOG"
     }
   },
   {
